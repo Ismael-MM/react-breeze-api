@@ -23,10 +23,6 @@ This will start the server and open the application in your default browser.
 - TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
 - Tailwind CSS: A utility-first CSS framework for rapid UI development.
 
-# Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
 # Contact
 
 If you have any questions or need further assistance, feel free to contact **NIXX** at [hello@nixx.dev](mailto:hello@nixx.dev).
